@@ -2,7 +2,7 @@
 
 [edwardak00@gmail.com](mailto:edwardak00@gmail.com) | [Download as PDF](Eduard_Diakunenko_CV.pdf)
 
-Senior software developer with 5+ years building web apps and games across professional roles and independent projects. Promoted from Junior to Middle at A-Team Global. Built React and TypeScript interfaces for enterprise projects, including two started from scratch as the sole frontend developer. Recent independent work includes a deployed polling app and a game released on Steam.
+Senior full-stack software developer with 5+ years of experience building web apps and games, both within teams and as the primary developer on projects. Recent independent work includes a deployed polling app and a game released on Steam.
 
 ## Experience
 
@@ -10,7 +10,7 @@ Senior software developer with 5+ years building web apps and games across profe
 
 Focused on independent projects while deepening game development and AI skills; released a Rust/Bevy game on Steam and deployed an AI-assisted polling app.
 
-### [A-Team Global](https://a-team.global/) (formerly IT Master Soft) | Web Developer, promoted from Junior to Middle | 2019–2023
+### [A-Team Global](https://a-team.global/) | Full-stack Developer | 2019–2023
 
 - Built the frontend from scratch as the sole frontend developer for an internal Volkswagen VR training platform used to teach engineers how vehicle systems work (React, TypeScript).
 - Built a climate-control administration dashboard for commercial buildings, starting the frontend from scratch as the sole frontend developer (React, TypeScript, GraphQL).
