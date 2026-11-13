@@ -6,11 +6,11 @@ Senior full-stack software developer with 5+ years of experience building web ap
 
 ## Experience
 
-### Independent Projects | Software development | 2023–Present
+### Independent Projects | Software development | 2024–Present
 
 Focused on independent projects while deepening game development and AI skills; released a Rust/Bevy game on Steam and deployed an AI-assisted polling app.
 
-### [A-Team Global](https://a-team.global/) | Full-stack Developer | 2019–2023
+### [A-Team Global](https://a-team.global/) | Full-stack Developer | 2019–2024
 
 - Built the frontend from scratch as the sole frontend developer for an internal Volkswagen VR training platform used to teach engineers how vehicle systems work (React, TypeScript).
 - Built a climate-control administration dashboard for commercial buildings, starting the frontend from scratch as the sole frontend developer (React, TypeScript, GraphQL).
